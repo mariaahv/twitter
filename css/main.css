@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  background-image: url(../assets/images/fondo03.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+#encabezado{
+  background-color:#63CBF8;
+  height: 50px;
+}
+
+#firstSquare{
+  position: relative;
+  display: inline-block;
+  margin: 0px 10px 0px 120px;
+  outline: 2px solid yellow;
+  background-color: white;
+  width: 40%;
+  height: 200px;
+}
+#secondSquare{
+position: relative;
+  display: inline-block;
+  margin: 30px 0px 0px  0px;
+  outline: 2px solid red;
+  background-color: pink;
+  width: 40%;
+  height: 200px;
+}
+
+#line{
+  margin: 50px;
+}
+
+#p1{
+  margin: 10px  10px 3px;
+}
+
+.btn{
+
+  margin: 2px 10px;
+  background-color: skyblue;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  display: block;
+  padding: 7px;
+
+}
+
+textarea{
+
+
+  display: inline-block;
+  margin: 10px;
+  height: 100px;
+  width: 520px;
+  border: none;
+}
+
+#caracteres{
+margin:8px;
+}
+
+#containertexts{
+  background-color: white;
+  width: 70%;
+  margin: 10px 10px;;
+}
